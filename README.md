@@ -9,8 +9,7 @@ Atualmente tenho estudo e dedicado muito para tornar minha transição de carrei
 
 ## Projetos
 
-* **PROJETO 1:** [Nome do Projeto 1]()
-* **PROJETO 2:** [Nome do Projeto 2]()
+* **PROJETO 1:** [Covid Global Reports]()
 
 ---
 
