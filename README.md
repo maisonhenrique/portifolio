@@ -9,7 +9,7 @@ Atualmente tenho estudo e dedicado muito para tornar minha transição de carrei
 
 ## Projetos
 
-* **PROJETO 1:** [Covid Global Reports]()
+* **PROJETO 1:** [Covid-19 Global Reports]()
 
 ---
 
