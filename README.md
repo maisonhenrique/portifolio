@@ -9,7 +9,7 @@ Atualmente tenho estudo e dedicado muito para tornar minha transição de carrei
 
 ## Projetos
 
-* **PROJETO 1:** [Covid-19 Global Reports]()
+* **PROJETO 1:** [Covid-19 Global Reports](https://github.com/maisonhenrique/portifolio/tree/main/Covid19_Global_Reports)
 
 ---
 
