@@ -20,7 +20,7 @@ Para a plotagem dos dados utilizei a biblioteca [Plotly Express](https://plotly.
 
 * **Confirmed Cases by Countries**
 
-https://github.com/maisonhenrique/portifolio/blob/dfb7e31c5ff8fdb902586cb2d8f3a0e150bb27a1/Covid_Global_Reports/Confirmed%20Cases%20by%20Countries.png
+<https://github.com/maisonhenrique/portifolio/blob/dfb7e31c5ff8fdb902586cb2d8f3a0e150bb27a1/Covid_Global_Reports/Confirmed%20Cases%20by%20Countries.png>
 
 * **Deaths by Countries**
 
