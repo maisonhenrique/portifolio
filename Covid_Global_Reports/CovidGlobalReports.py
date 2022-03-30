@@ -57,7 +57,7 @@ Grafico4.update_layout(title_text='Deaths by Regions', title_x=0.5)
 Grafico4.show()
 
 #Gráfico - Casos Atuais
-regionpie= Base_Dados.groupby(['Region', 'Date']).sum().reset_index()
+regionpie = Base_Dados.groupby(['Region', 'Date']).sum().reset_index()
 active = regionpie[regionpie['Date'] == regionpie['Date'].max()]
 
 Grafico5 = px.pie(active, values='Active', names='Region')
