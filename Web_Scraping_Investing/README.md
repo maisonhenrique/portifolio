@@ -1,4 +1,4 @@
-# Web Scraping Ações do Índice Brasil 50
+# Web Scraping das Ações do Índice Brasil 50
 
 Web Scraping em tradução livre siginifica raspagem de rede. É utilizado para fazer coleta de dados estruturados da web de forma automatizada.
 
@@ -18,7 +18,7 @@ Dessa forma, podemos criar soluções que otimizem o nosso tempo com recursos co
 * Acessar: Índice Brasil 50.
 
 
-Vejamos abaixo os passos que foram necessários para obtenção, modelagem e ao final uma plotagem dos dados com informação do valor do preço de fechamento das ações.
+Vejamos abaixo as etapas necessárias para coleta, limpeza, modelagem e ao final uma plotagem dos dados com informação do valor do preço de fechamento das ações.
 
 * Coleta de Dados com a biblioteca com um script Python e biblioteca Selenium com o webdriver do Chrome
 * Limpeza, Exploração e Modelagem de dados utilizei a biblioteca Pandas
@@ -31,7 +31,7 @@ download do arquivo executável específico para seu navegador. [Link para downl
 
 
 # Coletando e Salvando os Dados
-Informe o local para salvar os dados coletados em extensão .csv.
+Informe o local para salvar os dados coletados em extensão csv.
 
 
 # Fechando as Janelas
@@ -66,7 +66,6 @@ Para ter uma boa manipulação desses dados precisamos investir muito tempo ness
 
 Para a visualização dos dados utilizei a biblioteca Matplotlib. Abaixo o gráfico do Valor de Fechamento das Ações de cada Empresa.
 
-
-
+<img src = "https://github.com/maisonhenrique/portifolio/blob/cf3fd424e366c5e34b0870e77868cc5482c4896b/Web_Scraping_Investing/Grafico.png" />
 
 

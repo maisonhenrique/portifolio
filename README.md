@@ -13,7 +13,7 @@ Diversas coisas me fazem sair da zona de conforto e me jogar em algo totalmente 
 ## Projetos
 
 * **PROJETO 1:** [Covid-19 Global Reports](https://github.com/maisonhenrique/portifolio/tree/main/Covid19_Global_Reports)
-* **PROJETO 2:** [Web Scraping Investing]()
+* **PROJETO 2:** [Web Scraping Investing](https://github.com/maisonhenrique/portifolio/tree/main/Web_Scraping_Investing)
 
 ---
 
