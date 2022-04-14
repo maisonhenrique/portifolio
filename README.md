@@ -15,9 +15,9 @@ Diversas coisas me fazem sair da zona de conforto e me jogar em algo totalmente 
 * **PROJETO 1:** [Covid-19 Global Reports](https://github.com/maisonhenrique/portifolio/tree/main/Covid19_Global_Reports)
 * **PROJETO 2:** [Web Scraping Investing](https://github.com/maisonhenrique/portifolio/tree/main/Web_Scraping_Investing)
 
----
+----
 
-### Sobre Mim:
+### Sobre Mim
 
 Sou Maison Henrique, Analista de Produto Sênior em projetos no segmento de engenharia automobilística. 
 Minha experiência inclui suporte com propostas de redução de custo, soluções técnicas para novos produtos. 
@@ -27,3 +27,8 @@ Atualmente estou em transição de carreira e com forte interesse em atuar na á
 
 * Cursando Pós-graduação em Inteligência Artificial e Aprendizado de Máquina pela PUC Minas
 * Graduação em Engenharia Mecânica pela UniBh
+
+
+### Certificações
+
+[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
