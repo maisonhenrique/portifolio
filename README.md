@@ -3,7 +3,7 @@
 Atualmente tenho estudo e dedicado muito para tornar minha transição de carreira uma realidade. 
 Desde meados de 2021 venho me esforçando para aprender sobre Data Science e isso tem me motivado bastante para essa mudança. 
 Às vezes me perguntam: Qual o motivo para mudar agora? Por que escolheu a área de tecnologia? Enfim, são muitas perguntas. 
-Diversas coisas me fazem sair da zona de conforto e me jogar em algo totalmente novo, mas que me satisfaz profissionalmente. 🚀📊💻
+Diversas coisas me fazem sair da zona de conforto e me jogar em algo totalmente novo, mas que me satisfaz profissionalmente. 🚀🧑‍💻💻
 
 
 * [LinkedIn](https://www.linkedin.com/in/maison-henrique/)
@@ -14,6 +14,7 @@ Diversas coisas me fazem sair da zona de conforto e me jogar em algo totalmente 
 
 * [Covid-19 Global Reports](https://github.com/maisonhenrique/portifolio/tree/main/Covid19_Global_Reports)
 * [Web Scraping Investing](https://github.com/maisonhenrique/portifolio/tree/main/Web_Scraping_Investing)
+* [Desafio Enem](https://github.com/maisonhenrique/portifolio/tree/main/Desafio_Enem_IDHM)
 
 ----
 
@@ -30,8 +31,5 @@ Atualmente estou em transição de carreira e com forte interesse em atuar na á
 
 ### Certificações
 
-<<<<<<< HEAD
 [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
-=======
-[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
->>>>>>> 281a4cc84672973e78901a267dd0f91c7df36622
+
