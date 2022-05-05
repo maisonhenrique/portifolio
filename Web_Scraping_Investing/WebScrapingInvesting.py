@@ -6,14 +6,14 @@ from time import sleep
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 
-webdriver.Chrome(executable_path='C:/Users/maison/Documents/DataScience/Portifolio/WebScraping/chromedriver.exe')
+webdriver.Chrome(executable_path='C:/chromedriver.exe')
 url = 'https://br.investing.com/markets/brazil'
 driver = webdriver.Chrome()
 driver.get(url)
 sleep(8)
 
 #Local para salvar o arquivo em .csv
-arquivo = open('C:/Users/maison/Documents/DataScience/Portifolio/WebScraping/table.csv', 'w', encoding='utf-8')
+arquivo = open('C:/table.csv', 'w', encoding='utf-8')
 
 #Permitir os cookies da página
 button_accept = driver.find_element(By.XPATH, '//*[@id="onetrust-accept-btn-handler"]')
@@ -82,7 +82,6 @@ Base_Dados.info()
 print(Base_Dados)
 
 #Gráfico
-
 #Função par formartar eixo em R$
 def dec (x, pos):
     return f'R$ {x:.0f}'
