@@ -15,9 +15,9 @@ Diversas coisas me fazem sair da zona de conforto e me jogar em algo totalmente 
 * [Covid-19 Global Reports](https://github.com/maisonhenrique/portifolio/tree/main/Covid19_Global_Reports)
 * [Web Scraping Investing](https://github.com/maisonhenrique/portifolio/tree/main/Web_Scraping_Investing)
 
----
+----
 
-### Sobre Mim:
+### Sobre Mim
 
 Sou Analista de Produto Sênior trabalho com desenvolvimento de produto no segmento de engenharia automobilística. 
 Minha experiência inclui suporte com propostas de redução de custo e soluções técnicas para novos produtos.
@@ -30,4 +30,8 @@ Atualmente estou em transição de carreira e com forte interesse em atuar na á
 
 ### Certificações
 
+<<<<<<< HEAD
 [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
+=======
+[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
+>>>>>>> 281a4cc84672973e78901a267dd0f91c7df36622
