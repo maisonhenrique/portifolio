@@ -12,9 +12,10 @@ Diversas coisas me fazem sair da zona de conforto e me jogar em algo totalmente 
 
 ## Projetos
 
-* [Covid-19 Global Reports](https://github.com/maisonhenrique/portifolio/tree/main/Covid19_Global_Reports)
-* [Web Scraping Investing](https://github.com/maisonhenrique/portifolio/tree/main/Web_Scraping_Investing)
+* [Prevendo Preçoes das Ações ITUB4 - Com Rede Neural Recorrente]()
 * [Desafio Enem](https://github.com/maisonhenrique/portifolio/tree/main/Desafio_Enem_IDHM)
+* [Web Scraping Investing](https://github.com/maisonhenrique/portifolio/tree/main/Web_Scraping_Investing)
+* [Covid-19 Global Reports](https://github.com/maisonhenrique/portifolio/tree/main/Covid19_Global_Reports)
 
 ----
 

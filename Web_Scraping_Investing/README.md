@@ -180,15 +180,7 @@ plt.show()
 
 # Considerações Finais
 No dia a dia deparamos com situações diversas que requer tempo para coleta de dados ou até mesmo execução de atividades importantes para o trabalho ou uso pessoal. Dessa forma, podemos criar soluções que otimizem o nosso tempo com recursos como, Web Sraping.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
 Nesse projeto percebemos o quanto essa ferramenta é útil. No exemplo mostrado podemos obter os dados das Ações e fazer analises como, por exemplo, Volume negociado no dia, Valor de Fechamento, Valor Mínimo e Máximo etc.
->>>>>>> e57b6b6 (Inclusão de Projeto)
 
-Nesse projeto percebemos o quanto essa ferramenta é útil. No exemplo mostrado podemos obter os dados das Ações e fazer analises como, por exemplo, Volume negociado no dia, Valor de Fechamento, Valor Mínimo e Máximo etc.
-=======
 
-Nesse projeto percebemos o quanto essa ferramenta é útil. No exemplo mostrado podemos obter os dados das Ações e fazer analises como, por exemplo, Volume negociado no dia, Valor de Fechamento, Valor Mínimo e Máximo etc.
->>>>>>> 281a4cc84672973e78901a267dd0f91c7df36622
