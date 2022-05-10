@@ -13,14 +13,14 @@ Utilizei conjuntos de treinamentos que são sistema para o aprendizado. Com isso
 
 A Figura abaixo demonstra o fluxo de trabalho no Machine Learning.
 
-<img src = "" />
+![Processo ML](Processo ML.png)
 
 
 ## Base de Dados
 
 Os dados histórico (04/2017 à 04/22) que eu utilizei nesse projeto está disponível no [Yahoo Finance](https://br.financas.yahoo.com/quote/ITUB4.SA/history?period1=1493856000&period2=1651622400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true). 
 
-<img src = "" />
+<img src = "https://github.com/maisonhenrique/portifolio/blob/bf420ad85ff44172a77c88a0b06077ca9182efa4/Prevendo_Preco_Acoes/Figure_1.png" />
 
 
 ## Rede Neural Recorrente (RNN)
@@ -30,7 +30,7 @@ Uma rede neural recorrente (RNN) é uma classe de redes neurais que inclui conex
 Como as RNNs incluem loops, elas podem armazenar informações ao processar novas entradas. Essa memória os torna ideais para tarefas de processamento 
 onde as entradas anteriores devem ser consideradas (como dados da série temporal). M. Tim Jones
 
-<img src = "" />
+![Rede Neural Recorrente](Rede Neural Recorrente.png)
 
 
 ## Long Short Term Memory (LSTM)
@@ -84,7 +84,7 @@ print(Validação)
 
 Abaixo é possível verificar o gráfico Realizado vs Modelo, os valores das previsões estão bem próximos dos valores reais de fechamento.
 
-<img src = "" />
+<img src = "https://github.com/maisonhenrique/portifolio/blob/bf420ad85ff44172a77c88a0b06077ca9182efa4/Prevendo_Preco_Acoes/Figure_3.png" />
 
 ## Considerações Finais
 
@@ -95,10 +95,12 @@ Reforçando o que disse acima, esse artigo é para fins de estudos e não para r
 
 Abaixo uma plotagem final com um comparativo dos Preços de Fechamento vs Previsão.
 
-<img src = "" />
+<img src = "https://github.com/maisonhenrique/portifolio/blob/bf420ad85ff44172a77c88a0b06077ca9182efa4/Prevendo_Preco_Acoes/Figure_4.png" />
 
 ## Referências:
 
 [Um mergulho profundo nas redes neurais recorrentes - M. Tim Jones](https://imasters.com.br/data/um-mergulho-profundo-nas-redes-neurais-recorrentes#:~:text=Uma%20rede%20neural%20recorrente%20(RNN,alimenta%C3%A7%C3%A3o%20apenas%20para%20camadas%20subsequentes))
+
 [Arquitetura de Redes Neurais Artificiais - Vinicius Almir Weiss](https://ateliware.com/blog/redes-neurais-artificiais)
+
 Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow - Aurélien Géron
