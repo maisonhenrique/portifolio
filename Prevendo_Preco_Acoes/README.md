@@ -13,7 +13,7 @@ Utilizei conjuntos de treinamentos que são sistema para o aprendizado. Com isso
 
 A Figura abaixo demonstra o fluxo de trabalho no Machine Learning.
 
-![Processo ML](Processo ML.png)
+<img src = "https://github.com/maisonhenrique/portifolio/blob/13bea3565de0ff6844453708daeee6bdd429ccd4/Prevendo_Preco_Acoes/Processo%20ML.png" />
 
 
 ## Base de Dados
@@ -30,7 +30,7 @@ Uma rede neural recorrente (RNN) é uma classe de redes neurais que inclui conex
 Como as RNNs incluem loops, elas podem armazenar informações ao processar novas entradas. Essa memória os torna ideais para tarefas de processamento 
 onde as entradas anteriores devem ser consideradas (como dados da série temporal). M. Tim Jones
 
-![Rede Neural Recorrente](Rede Neural Recorrente.png)
+<img src = "https://github.com/maisonhenrique/portifolio/blob/13bea3565de0ff6844453708daeee6bdd429ccd4/Prevendo_Preco_Acoes/Rede%20Neural%20Recorrente.png" />
 
 
 ## Long Short Term Memory (LSTM)
