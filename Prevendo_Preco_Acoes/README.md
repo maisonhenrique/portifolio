@@ -86,6 +86,7 @@ Abaixo é possível verificar o gráfico Realizado vs Modelo, os valores das pre
 
 <img src = "https://github.com/maisonhenrique/portifolio/blob/bf420ad85ff44172a77c88a0b06077ca9182efa4/Prevendo_Preco_Acoes/Figure_3.png" />
 
+
 ## Considerações Finais
 
 Ao utilizar o método de aprendizado de máquina tivemos resultados satisfatórios ao tentar prevermos os preços das ações do Banco Itaú. 
@@ -97,7 +98,8 @@ Abaixo uma plotagem final com um comparativo dos Preços de Fechamento vs Previs
 
 <img src = "https://github.com/maisonhenrique/portifolio/blob/bf420ad85ff44172a77c88a0b06077ca9182efa4/Prevendo_Preco_Acoes/Figure_4.png" />
 
-## Referências:
+
+## Referências
 
 [Um mergulho profundo nas redes neurais recorrentes - M. Tim Jones](https://imasters.com.br/data/um-mergulho-profundo-nas-redes-neurais-recorrentes#:~:text=Uma%20rede%20neural%20recorrente%20(RNN,alimenta%C3%A7%C3%A3o%20apenas%20para%20camadas%20subsequentes))
 
