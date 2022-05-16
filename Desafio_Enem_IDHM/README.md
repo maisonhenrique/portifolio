@@ -36,4 +36,4 @@ A quantidade de participantes ausentes no exame em 2020 foi maior que os present
 
 ## Resultado
 
-O arquivo .pbix ficou muito extenso e não foi possível adicionar no GitHub. Para verificar o resultado final acesse o [PDF]() extraido do Power BI.
+O arquivo .pbix ficou muito extenso e não foi possível adicionar no GitHub. Para verificar o resultado final acesse o [PDF](https://github.com/maisonhenrique/portifolio/blob/2d677e32949892a99a33a56cb92393cb49a036df/Desafio_Enem_IDHM/Desafio%20Enem%20IDHM.pdf) extraido do Power BI.
