@@ -61,4 +61,9 @@ O arquivo .pbix ficou muito extenso e não foi possível adicionar no GitHub. Ac
 ![Desafio Enem IDHM_pages-to-jpg-0008](https://user-images.githubusercontent.com/99361817/168936892-91af6334-990e-4585-8818-294cd280fb0e.jpg)
 ![Desafio Enem IDHM_pages-to-jpg-0009](https://user-images.githubusercontent.com/99361817/168936903-0f0830a3-ffbb-47ee-bf76-b7b5e7bf3de8.jpg)
 ![Desafio Enem IDHM_pages-to-jpg-0010](https://user-images.githubusercontent.com/99361817/168936906-95a7d153-d6a7-4234-aace-cae97436f1e1.jpg)
+<<<<<<< HEAD
 ![Desafio Enem IDHM_pages-to-jpg-0011](https://user-images.githubusercontent.com/99361817/168936913-ffd4ea88-c327-4078-b4f2-298f879ce458.jpg)
+=======
+![Desafio Enem IDHM_pages-to-jpg-0011](https://user-images.githubusercontent.com/99361817/168936913-ffd4ea88-c327-4078-b4f2-298f879ce458.jpg)
+
+>>>>>>> 807093a6c88740b7596f1345d3ab716dba05d996
