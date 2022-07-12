@@ -12,7 +12,7 @@ Diversas fatores me fazem sair da zona de conforto e me jogar em algo totalmente
 
 ## Projetos
 
-* [Prevendo o Consumo de Cerveja - Regressão Linear]()
+* [Prevendo o Consumo de Cerveja - Regressão Linear](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Consumo_de_Cerveja)
 * [Prevendo o Preço das Ações ITUB4 - Com Rede Neural Recorrente](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Preco_Acoes)
 * [Desafio Enem - Análise Exploratória](https://github.com/maisonhenrique/portifolio/tree/main/Desafio_Enem_IDHM)
 * [Web Scraping Investing](https://github.com/maisonhenrique/portifolio/tree/main/Web_Scraping_Investing)
