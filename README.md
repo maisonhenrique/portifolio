@@ -25,7 +25,18 @@ Diversas fatores me fazem sair da zona de conforto e me jogar em algo totalmente
 Sou Analista de Produto Sênior trabalho com desenvolvimento de produto no segmento de engenharia automobilística. 
 Minha experiência inclui suporte com propostas de redução de custo e soluções técnicas para novos produtos.
 
-Atualmente estou em transição de carreira e com forte interesse em atuar na área de Data Science. Tenho conhecimento em Python, Power BI, SQL.
+Atualmente estou em transição de carreira e com forte interesse em atuar na área de Data Science.
+
+**Skills:**
+* Python, SQL
+* Pandas, Numpy, Selenium, Plotly, Matplotlib, Searborn, Scikit-learn, Keras
+* Análise exploratória, modelagem, limpeza e interpretação dos dados.
+* Databases: MySQL, SQLServer, PostgreSQL
+* Versionamento de Projetos: Git e Github
+* Power BI, Excel, Estatística, Regressão, Machine Learning, Deep Learning
+
+
+### Formação Acadêmica
 
 * Cursando Pós-graduação em Inteligência Artificial e Aprendizado de Máquina pela PUC Minas
 * Graduação em Engenharia Mecânica pela UniBh
@@ -34,4 +45,3 @@ Atualmente estou em transição de carreira e com forte interesse em atuar na á
 ### Certificações
 
 [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
-
