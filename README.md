@@ -12,8 +12,9 @@ Diversas fatores me fazem sair da zona de conforto e me jogar em algo totalmente
 
 ## Projetos
 
+* [Previsão de Diabetes - Regressão Logística]()
 * [Prevendo o Consumo de Cerveja - Regressão Linear](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Consumo_de_Cerveja)
-* [Prevendo o Preço das Ações ITUB4 - Com Rede Neural Recorrente](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Preco_Acoes)
+* [Prevendo o Preço das Ações ITUB4 - Rede Neural Recorrente](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Preco_Acoes)
 * [Desafio Enem - Análise Exploratória](https://github.com/maisonhenrique/portifolio/tree/main/Desafio_Enem_IDHM)
 * [Web Scraping Investing](https://github.com/maisonhenrique/portifolio/tree/main/Web_Scraping_Investing)
 * [Covid-19 Global Reports](https://github.com/maisonhenrique/portifolio/tree/main/Covid19_Global_Reports)
@@ -33,7 +34,7 @@ Atualmente estou em transição de carreira e com forte interesse em atuar na á
 * Análise exploratória, modelagem, limpeza e interpretação dos dados.
 * Databases: MySQL, SQLServer, PostgreSQL
 * Versionamento de Projetos: Git e Github
-* Power BI, Excel, Estatística, Regressão, Machine Learning, Deep Learning
+* Power BI, Excel, Estatística, Técnicas de Regressão, Machine Learning, Deep Learning
 
 
 ### Formação Acadêmica
