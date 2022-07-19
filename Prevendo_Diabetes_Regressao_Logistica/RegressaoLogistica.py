@@ -85,30 +85,3 @@ svm_model.fit(X_train, y_train)
 Previsao_svm = svm_model.predict(X_test)
 print('Relatório de Clasfficação - SVM: \n\n', classification_report(y_test, Previsao_svm))
 
-
-# Hiperparamentros
-xtrain2, xtest2, ytrain2, ytest2 = train_test_split(X, y, test_size=0.2, random_state=10)
-
-smote = SMOTE()
-xtrainsmote, ytrainsmote = smote.fit_resample(xtrain2, ytrain2)
-
-param_grid = [
-    {
-    'C': np.logspace(-4, 4, 20),
-    'max_iter': [100, 1000, 2500, 5000],
-    }
-]
-
-logModel = LogisticRegression(solver='liblinear')
-clf = GridSearchCV(logModel, param_grid=param_grid, cv=10, verbose=True, n_jobs=-1)
-best_clf = clf.fit(xtrainsmote, ytrainsmote)
-
-print(best_clf.best_estimator_)
-print(best_clf.best_params_)
-
-finallr = LogisticRegression(C=1.623776739188721, max_iter=100, solver='liblinear')
-
-lrfinalmod = finallr.fit(xtrainsmote, ytrainsmote)
-preds = lrfinalmod.predict(xtest2)
-
-print('Relatório GridSearchCV: \n\n', classification_report(ytest2, finallr.predict(xtest2)))

@@ -12,7 +12,7 @@ Diversas fatores me fazem sair da zona de conforto e me jogar em algo totalmente
 
 ## Projetos
 
-* [Previsão de Diabetes - Regressão Logística]()
+* [Previsão de Diabetes - Regressão Logística](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Diabetes_Regressao_Logistica)
 * [Prevendo o Consumo de Cerveja - Regressão Linear](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Consumo_de_Cerveja)
 * [Prevendo o Preço das Ações ITUB4 - Rede Neural Recorrente](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Preco_Acoes)
 * [Desafio Enem - Análise Exploratória](https://github.com/maisonhenrique/portifolio/tree/main/Desafio_Enem_IDHM)
