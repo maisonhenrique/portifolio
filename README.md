@@ -1,9 +1,6 @@
 # Portifólio
 
-Atualmente tenho estudo e dedicado muito para tornar minha transição de carreira uma realidade. 
-Desde meados de 2021 venho me esforçando para aprender sobre Data Science e isso tem me motivado bastante para essa mudança. 
-Às vezes me perguntam: Qual o motivo para mudar agora? Por que escolheu a área de tecnologia? Enfim, são muitas perguntas. 
-Diversas fatores me fazem sair da zona de conforto e me jogar em algo totalmente novo, mas que me satisfaz profissionalmente. 🚀🧑‍💻💻
+Nesse repositório estarão disponíveis alguns projetos de estudo. 🚀🧑‍💻💻
 
 
 * [LinkedIn](https://www.linkedin.com/in/maison-henrique/)
@@ -12,6 +9,7 @@ Diversas fatores me fazem sair da zona de conforto e me jogar em algo totalmente
 
 ## Projetos
 
+* [Detecção de Fraudes no Cartão de Crédito]()
 * [Previsão de Diabetes - Regressão Logística](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Diabetes_Regressao_Logistica)
 * [Prevendo o Consumo de Cerveja - Regressão Linear](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Consumo_de_Cerveja)
 * [Prevendo o Preço das Ações ITUB4 - Rede Neural Recorrente](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Preco_Acoes)
@@ -23,10 +21,10 @@ Diversas fatores me fazem sair da zona de conforto e me jogar em algo totalmente
 
 ### Sobre Mim
 
-Sou Analista de Produto Sênior trabalho com desenvolvimento de produto no segmento de engenharia automobilística. 
-Minha experiência inclui suporte com propostas de redução de custo e soluções técnicas para novos produtos.
+Sou Analista de Produto Sênior no momento trabalho com desenvolvimento de produto no segmento de engenharia automobilística. 
+Minha experiência inclui suporte em propostas de redução de custo e soluções técnicas para novos produtos.
 
-Atualmente estou em transição de carreira e com forte interesse em atuar na área de Data Science.
+Atualmente estou em transição de carreira e com muito interesse em atuar na área de Data Science.
 
 **Skills:**
 * Python, SQL
@@ -34,7 +32,7 @@ Atualmente estou em transição de carreira e com forte interesse em atuar na á
 * Análise exploratória, modelagem, limpeza e interpretação dos dados.
 * Databases: MySQL, SQLServer, PostgreSQL
 * Versionamento de Projetos: Git e Github
-* Power BI, Excel, Estatística, Técnicas de Regressão, Machine Learning, Deep Learning
+* Power BI, Excel, Estatística, Regressão, Machine Learning, Deep Learning
 
 
 ### Formação Acadêmica
