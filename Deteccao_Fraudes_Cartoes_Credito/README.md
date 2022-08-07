@@ -1,5 +1,10 @@
 # Detecção de Fraudes em Cartões de Crédito
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99361817/183304700-734961b1-7fa7-428c-8d40-ef0943999817.png">
+</p>
+
+
 Neste projeto iremos abordar sobre as fraudes nos cartões de crédito, uma das principais preocupações das instituições financeiras.
 
 Segundo o Indicador de Tentativas de Fraude da [Serasa Experian](https://www.serasaexperian.com.br/sala-de-imprensa/analise-de-dados/tentativas-de-fraude-atingem-326-mil-brasileiros-em-fevereiro-afirma-serasa-experian/), em fevereiro de 2022 houve 326.290 tentativas de fraudes. Isso quer dizer que a cada 7 segundos alguém foi alvo de golpistas.
@@ -28,7 +33,7 @@ No gráfico abaixo é possível perceber a discrepância entre os dados. Dessa f
 Para efeito de estudos fiz os modelos considerando dados desbalanceados e balanceados. 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304393-e1e12a88-5ee3-4463-9105-65eafed3b5a4.png">
 </p>
 
 
@@ -48,7 +53,7 @@ Abaixo uma análise estátistica descritiva da variável Class:
 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304401-95c2cabf-c204-4cf7-ae6e-69a304699892.png">
 </p>
 
 
@@ -56,14 +61,14 @@ Abaixo uma análise estátistica descritiva da variável Class:
 As transações fraudulentas têm uma distribuição mais uniforme do que as transações válidas, são igualmente distribuídas no tempo incluindo os baixos tempos reais de transação.
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304422-9845f4e5-797b-4c41-85a3-31fe99a9a2bc.png">
 </p>
 
 
 Uma representação gráfica de boxplot para entender a diferença no padrão das transações em relação ao seu valor (Amount). É possível perceber que há uma distribuição diferente para as duas classes.
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304429-db59f245-c24a-434f-8a66-3bedafe14e2b.png)">
 </p>
 
 
@@ -81,7 +86,7 @@ Devido a discrepância dos dados de Fraude e Não Fraude é preciso fazer o bala
 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304451-d11ad165-9c88-4a06-8f55-d6aa13a83ef9.png">
 </p>
 
 
@@ -92,7 +97,7 @@ Antes do balanceamento podemos perceber que no primeiro gráfico não era possí
 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304453-03cb098f-c9c3-4fb7-ac0e-ff45941ca0f9.png">
 </p>
 
 
@@ -139,7 +144,7 @@ print('AUC: {:.4f}\n'.format(roc_auc_score(y_test, y_pred)))
 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304483-08f97558-9a78-4c58-91e9-29ae9a1c98ca.png">
 </p>
 
 
@@ -168,7 +173,7 @@ print('AUC: {:.4f}\n'.format(roc_auc_score(y_test, y_pred_smt)))
 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304491-2c8fb4fe-edfe-4756-b51b-4929c91bbe30.png">
 </p>
 
 
@@ -195,7 +200,7 @@ print('AUC: {:.4f}\n'.format(roc_auc_score(y_test, y_pred_log)))
 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304498-c9053939-4b4a-49c9-b4e8-404d98911a94.png">
 </p>
 
 
@@ -223,7 +228,7 @@ print('AUC: {:.4f}\n'.format(roc_auc_score(y_test, y_pred_log_smt)))
 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304504-295b5129-ff4c-41e7-b367-fe4266a16d18.png">
 </p>
 
 
@@ -251,7 +256,7 @@ print('AUC: {:.4f}\n'.format(roc_auc_score(y_test, y_pred_XGB)))
 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304506-111c82a1-73f9-49c2-99fa-c28173d48f5e.png">
 </p>
 
 
@@ -280,7 +285,7 @@ print('AUC: {:.4f}\n'.format(roc_auc_score(y_test, y_pred_XGB_smt)))
 
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304510-c85c3e11-a13a-4f04-8c86-6f4a4e6ee07b.png">
 </p>
 
 
@@ -294,7 +299,7 @@ print('AUC: {:.4f}\n'.format(roc_auc_score(y_test, y_pred_XGB_smt)))
 * Com isso a solução ideal é aquela que melhor atende a instituição financeira, podendo ser a com o maior **AUC ou o modelo com o maior número de **detecção de fraudes**.
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/183304515-6d3ba382-d422-41f2-a4ca-1c8405da9d09.png">
 </p>
 
 
