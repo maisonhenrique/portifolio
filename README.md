@@ -1,6 +1,6 @@
 # Portifólio
 
-Nesse repositório estarão disponíveis alguns projetos de estudo. 🚀🧑‍💻💻
+Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science. 🚀🧑‍💻💻
 
 
 * [LinkedIn](https://www.linkedin.com/in/maison-henrique/)
@@ -9,7 +9,7 @@ Nesse repositório estarão disponíveis alguns projetos de estudo. 🚀🧑‍�
 
 ## Projetos
 
-* [Detecção de Fraudes no Cartão de Crédito]()
+* [Detecção de Fraudes no Cartão de Crédito](https://github.com/maisonhenrique/portifolio/tree/main/Deteccao_Fraudes_Cartoes_Credito)
 * [Previsão de Diabetes - Regressão Logística](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Diabetes_Regressao_Logistica)
 * [Prevendo o Consumo de Cerveja - Regressão Linear](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Consumo_de_Cerveja)
 * [Prevendo o Preço das Ações ITUB4 - Rede Neural Recorrente](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Preco_Acoes)
