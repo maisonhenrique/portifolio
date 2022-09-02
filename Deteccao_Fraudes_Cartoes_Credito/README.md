@@ -68,7 +68,7 @@ As transações fraudulentas têm uma distribuição mais uniforme do que as tra
 Uma representação gráfica de boxplot para entender a diferença no padrão das transações em relação ao seu valor (Amount). É possível perceber que há uma distribuição diferente para as duas classes.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99361817/183304429-db59f245-c24a-434f-8a66-3bedafe14e2b.png)">
+  <img src="https://user-images.githubusercontent.com/99361817/183304429-db59f245-c24a-434f-8a66-3bedafe14e2b.png">
 </p>
 
 
