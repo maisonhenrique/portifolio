@@ -9,7 +9,7 @@ Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Sc
 
 ## Projetos
 
-* [Análise Internações Hospitalares SUS - ARIMA]()
+* [Análise Internações Hospitalares SUS - ARIMA](https://github.com/maisonhenrique/portifolio/tree/main/Internacoes_SUS)
 * [Detecção de Fraudes no Cartão de Crédito](https://github.com/maisonhenrique/portifolio/tree/main/Deteccao_Fraudes_Cartoes_Credito)
 * [Previsão de Diabetes - Regressão Logística](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Diabetes_Regressao_Logistica)
 * [Prevendo o Consumo de Cerveja - Regressão Linear](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Consumo_de_Cerveja)
