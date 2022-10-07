@@ -164,7 +164,7 @@ Após realizar a validação de todos os modelos, o balanceamento **ADASYN** com
 
 A fim de obter resultados mais consistentes foi realizado um processo de otimização de hiperparâmetros utilizando o algoritmo **GridSearchCV** do **Scikit-Learn**, que visa escolher o melhor conjunto de hiperparâmetros a partir de uma validação cruzada.
 
-**Observação: Para o relatório não ficar muito extenso é possível verificar o código no arquivo ChurnPrediction.py
+**Observação:** Para o relatório não ficar muito extenso é possível verificar o código no arquivo ChurnPrediction.py
 
 
 ## Definindo o mellhor modelo
