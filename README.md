@@ -10,12 +10,11 @@ Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Sc
 ## Projetos
 
 * [Churn Prediction - Empresa de Telecomunicações](https://github.com/maisonhenrique/portifolio/tree/main/Churn_Prediction)
-* [Análise Internações Hospitalares SUS - ARIMA](https://github.com/maisonhenrique/portifolio/tree/main/Internacoes_SUS)
+* [Análise de Internações Hospitalares SUS - Séries Temporais](https://github.com/maisonhenrique/portifolio/tree/main/Internacoes_SUS)
 * [Detecção de Fraudes no Cartão de Crédito](https://github.com/maisonhenrique/portifolio/tree/main/Deteccao_Fraudes_Cartoes_Credito)
 * [Previsão de Diabetes - Regressão Logística](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Diabetes_Regressao_Logistica)
 * [Prevendo o Consumo de Cerveja - Regressão Linear](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Consumo_de_Cerveja)
 * [Prevendo o Preço das Ações ITUB4 - Rede Neural Recorrente](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Preco_Acoes)
-* [Desafio Enem - Análise Exploratória](https://github.com/maisonhenrique/portifolio/tree/main/Desafio_Enem_IDHM)
 * [Web Scraping Investing](https://github.com/maisonhenrique/portifolio/tree/main/Web_Scraping_Investing)
 
 ----
