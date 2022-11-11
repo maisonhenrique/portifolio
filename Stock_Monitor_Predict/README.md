@@ -93,7 +93,7 @@ results=model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=5
 Com o histórico de treinamento do modelo é possível diagnoticar o desempenho a apartir do gráfico. O ideal é a perda de treino e validação diminuir e estabilizar em torno do mesmo ponto, mas isso depende do conjunto de dados.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99361817/201244378-6386ad51-ba30-434d-ab96-f66bf2b85add.png">
+  <img src="https://user-images.githubusercontent.com/99361817/201247022-0cc4653a-5cc6-48b3-ae4b-1a07e769df4f.png">
 </p>
 
 
