@@ -9,7 +9,7 @@ Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Sc
 
 ## Projetos
 
-* [Stock Monitor Predict - Análise e Previsão de Preços de Ações]()
+* [Stock Monitor Predict - Análise e Previsão de Preços de Ações](https://github.com/maisonhenrique/portifolio/tree/main/Stock_Monitor_Predict)
 * [Churn Prediction - Empresa de Telecomunicações](https://github.com/maisonhenrique/portifolio/tree/main/Churn_Prediction)
 * [Análise de Internações Hospitalares SUS - Séries Temporais](https://github.com/maisonhenrique/portifolio/tree/main/Internacoes_SUS)
 * [Detecção de Fraudes no Cartão de Crédito](https://github.com/maisonhenrique/portifolio/tree/main/Deteccao_Fraudes_Cartoes_Credito)

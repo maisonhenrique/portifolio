@@ -1,18 +1,20 @@
-# Stock Monitor Predict - Análise e Previsão de Preços de Ações
+# Stock Monitor Predict - Análise e Previsão de Preços de Ações com App no Streamlit
 
 Este projeto tem o objetivo fazer um aplicativo no Streamlit. Para deixar o projeto mais robusta inclui a previsão de preçoes com Long Short Term Memory (LSTM).
 
 Mercado de ações é um assunto que eu gosto muito, foi um projeto bem interessante e prazeroso particularmente fiquei muito satisfeito com o resultado.
 
 
-Fiz o modelo de previsão em um arquivo separado[StockMonitorPredict.py]() e adicionei em outro arquivo [app.py]() que contém todas as funções do aplicativo com as análises e previsões.
+Fiz o modelo de previsão em um arquivo separado [StockMonitorPredict.py](https://github.com/maisonhenrique/portifolio/blob/692dd514b18063cd879a5def729d2d62b58e3506/Stock_Monitor_Predict/StockMonitorPredict.py) e adicionei em outro arquivo [app.py](https://github.com/maisonhenrique/portifolio/blob/692dd514b18063cd879a5def729d2d62b58e3506/Stock_Monitor_Predict/app.py) que contém todas as funções do aplicativo com as análises e previsões.
 
+Link Streamlit: https://maisonhenrique-stockmonitorpredict-app-qz344h.streamlit.app
+
+Link GitHub: https://github.com/maisonhenrique/StockMonitorPredict
 
 
 ## Base de Dados
 
 Eu utilizei a biblioteca Yahoo Finance (yfinance) para obter as informações das ações.
-
 
 ```shell
 df_acoes = pd.read_csv('base_dados.csv')
@@ -60,8 +62,7 @@ X_train = np.array(X_train)
 y_train = np.array(y_train)
 X_test = np.array(X_test)
 y_test = np.array(y_test)
-```shell
-
+```
 
 ## Long Short Term Memory (LSTM)
 Já havia feito um projeto sobre Previsão de Preços com LSTM fiz algumas alterações e tentei melhorar as previsões, utilizei a base desse projeto para incluir no Stock Monitor Predict.
@@ -79,7 +80,6 @@ model.add(Dropout(0.2))
 model.add(LSTM(35, return_sequences=False))
 model.add(Dropout(0.2))
 
-
 #Adicionando camadas na rede neural
 model.add(Dense(25))
 model.add(Dense(1))
@@ -90,18 +90,17 @@ model.summary()
 results=model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=130, verbose=2)
 ```
 
-
 Com o histórico de treinamento do modelo é possível diagnoticar o desempenho a apartir do gráfico. O ideal é a perda de treino e validação diminuir e estabilizar em torno do mesmo ponto, mas isso depende do conjunto de dados.
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/201244378-6386ad51-ba30-434d-ab96-f66bf2b85add.png">
 </p>
 
 
 **Observação:** Foi feito vários testes para encontrar a melhor combinação dos parâmetros.
 
 
-# Aplicando as previsões
+## Aplicando as previsões
 
 Com o modelo pronto e todos os parâmetros ajustados ai podemos aplicar as previsões. 
 
@@ -122,31 +121,32 @@ df_predict[['Close', 'Predict']]
 print(df_predict) 
 ```
 
-
 No gráfico Realizado vs Modelo é possível verificar que os valores das previsões estão bem próximos dos valores reais de fechamento.
 
-
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/201244464-e45894ac-4028-491e-837b-7aadbad49024.png">
 </p>
 
 
-# Aplicativo no Streamlit
+## Aplicativo no Streamlit
 
 Para uma melhor visualização e entendimento abaixo as imagens do aplicativo. O código completo está no arquivo [app.py]() que é possivel verificar no detalhe cada função. 
 
+
+Link do projeto no Streamlit: https://maisonhenrique-stockmonitorpredict-app-qz344h.streamlit.app
+
+
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/201245105-d9f52734-398a-4174-a872-c98d2a1a1d91.jpg">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/99361817/201245124-f588f5c2-f1c7-4ffc-af8a-e04935267c94.jpg">
 </p>
 
 
 ## Considerações Finais
 
 Este projeto foi elaborado somente para fins de estudos e não para recomendar ações. Para escolha e decisão sobre seus investimentos faça com responsabilidade e verificando sempre todos os critérios em torno do ativo escolhido.
-
 
 É importante ressaltar que o projeto tem margem para melhoria e estou aberto para sugestões.
