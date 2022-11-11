@@ -9,6 +9,7 @@ Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Sc
 
 ## Projetos
 
+* [Stock Monitor Predict - Análise e Previsão de Preços de Ações]()
 * [Churn Prediction - Empresa de Telecomunicações](https://github.com/maisonhenrique/portifolio/tree/main/Churn_Prediction)
 * [Análise de Internações Hospitalares SUS - Séries Temporais](https://github.com/maisonhenrique/portifolio/tree/main/Internacoes_SUS)
 * [Detecção de Fraudes no Cartão de Crédito](https://github.com/maisonhenrique/portifolio/tree/main/Deteccao_Fraudes_Cartoes_Credito)
@@ -28,11 +29,11 @@ Atualmente estou em transição de carreira e com muito interesse em atuar na á
 
 **Skills:**
 * Python, SQL
-* Pandas, Numpy, Selenium, Plotly, Matplotlib, Searborn, Scikit-learn, Keras
+* Pandas, Numpy, Selenium, Plotly, Streamlit, Matplotlib, Searborn, Scikit-learn, Keras
 * Análise exploratória, modelagem, limpeza e interpretação dos dados.
 * Databases: MySQL, SQLServer, PostgreSQL
 * Versionamento de Projetos: Git e Github
-* Power BI, Excel, Estatística, Regressão, Machine Learning, Deep Learning
+* PySpark, Power BI, Excel, Estatística, Regressão, Machine Learning, Deep Learning
 
 
 ### Formação Acadêmica
