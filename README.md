@@ -1,6 +1,6 @@
 # Portifólio
 
-Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Machine Learning. 🚀🧑‍💻💻
+Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Machine Learning. 🚀🧑‍💻
 
 
 * [LinkedIn](https://www.linkedin.com/in/maison-henrique/)
@@ -22,18 +22,17 @@ Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Sc
 
 ### Sobre Mim
 
-Sou Analista de Produto Sênior trabalho com desenvolvimento de produto no segmento de engenharia automobilística. 
-Minha experiência inclui suporte em propostas de redução de custo e soluções técnicas para novos produtos.
+Atualmente atuo como Analista de Dados responsável pela criação e atualização de dashboards em Data Studio. 
+Criação de modelo de Machine Learning para análise de sentimentos utilizando NLP (Natural Language Processing). 
+Já atuei por 7 anos como Analista de Produto onde trabalhei no suporte com propostas de redução de custo e soluções técnicas para novos produtos.
 
-Atualmente estou em transição de carreira e com muito interesse em atuar na área de Data Science.
-
-**Skills:**
-* Python, SQL
-* Pandas, Numpy, Selenium, Plotly, Streamlit, Matplotlib, Searborn, Scikit-learn, Keras
-* Análise exploratória, modelagem, limpeza e interpretação dos dados.
-* Databases: MySQL, SQLServer, PostgreSQL
+**Tenho experiência com:**
+* Python (Pandas, Selenium, Streamlit, Plotly, Matplotlib, Searborn, Scikit-learn entre outras), SQL
+* Análise exploratória, ETL, Estatística, Machine Learning
+* Databases: MySQL, PostgreSQL, MongoDB
 * Versionamento de Projetos: Git e Github
-* PySpark, Power BI, Excel, Estatística, Regressão, Machine Learning, Deep Learning
+* Organização de projetos: ClickUp
+* Ferramentas de BI: Power BI, Looker Studio (Data Studio)
 
 
 ### Formação Acadêmica
