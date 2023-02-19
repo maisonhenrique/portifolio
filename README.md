@@ -1,4 +1,7 @@
-# Portifólio
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99361817/219905529-2ae457f3-6d13-434e-a846-5b35edc90f3a.png">
+</p>
+
 
 Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Machine Learning. 🚀🧑‍💻
 
@@ -27,12 +30,13 @@ Criação de modelo de Machine Learning para análise de sentimentos utilizando 
 Já atuei por 7 anos como Analista de Produto onde trabalhei no suporte com propostas de redução de custo e soluções técnicas para novos produtos.
 
 **Tenho experiência com:**
-* Python (Pandas, Selenium, Streamlit, Plotly, Matplotlib, Searborn, Scikit-learn entre outras), SQL
-* Análise exploratória, ETL, Estatística, Machine Learning
+* SQL, Python (Pandas, NumPy, Selenium, Streamlit, Plotly, Matplotlib, Searborn, Scikit-learn entre outras)
+* Análise exploratória de dados, ETL, Estatística, WebScraping, Data Visualization
 * Databases: MySQL, PostgreSQL, MongoDB
 * Versionamento de Projetos: Git e Github
 * Organização de projetos: ClickUp
 * Ferramentas de BI: Power BI, Looker Studio (Data Studio)
+* Machine Learning (Random Forest, Logistic Regression, Times Series, SVM, XGBoost entre outras).
 
 
 ### Formação Acadêmica
