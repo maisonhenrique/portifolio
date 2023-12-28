@@ -3,7 +3,7 @@
 </p>
 
 
-Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Science e Machine Learning. 🚀🧑‍💻
+Neste repositório, apresento análises e projetos de estudo centrados na área de Data Science. Compartilho projetos abrangendo diversos temas e aspectos que venho explorando em meus estudos.
 
 
 * [LinkedIn](https://www.linkedin.com/in/maison-henrique/)
@@ -25,26 +25,27 @@ Neste repositório estarão disponíveis alguns projetos de estudo sobre Data Sc
 
 ### Sobre Mim
 
-Atualmente atuo como Analista de Dados responsável pela criação e atualização de dashboards em Data Studio. 
-Criação de modelo de Machine Learning para análise de sentimentos utilizando NLP (Natural Language Processing). 
-Já atuei por 7 anos como Analista de Produto onde trabalhei no suporte com propostas de redução de custo e soluções técnicas para novos produtos.
+Atualmente atuo como Analista de Dados dedicado a transformar informações em insights para orientar tomadas de decisão estratégicas. Tenho experiência na criação e manutenção de dashboards no Looker Studio. Minha abordagem envolve trabalhar com grandes conjuntos de dados, identificar questões críticas e aproveitar oportunidades de negócios.
 
 **Tenho experiência com:**
 * SQL, Python (Pandas, NumPy, Selenium, Streamlit, Plotly, Matplotlib, Searborn, Scikit-learn entre outras)
-* Análise exploratória de dados, ETL, Estatística, WebScraping, Data Visualization
-* Databases: MySQL, PostgreSQL, MongoDB
-* Versionamento de Projetos: Git e Github
-* Organização de projetos: ClickUp
-* Ferramentas de BI: Power BI, Looker Studio (Data Studio)
+* Análise exploratória de dados, ETL, Estatística, Data Visualization
+* Cloud Computing: Google Cloud Platform (GCP)
+* Databases: PostgreSQL, BigQuery
+* Versionamento de Projetos: Git, Github, Bitbucket
+* Organização de projetos: ClickUp, Trello
+* Ferramentas de BI: Power BI, Looker Studio
 * Machine Learning (Random Forest, Logistic Regression, Times Series, SVM, XGBoost entre outras).
 
 
 ### Formação Acadêmica
 
-* Cursando Pós-graduação em Inteligência Artificial e Aprendizado de Máquina pela PUC Minas
-* Graduação em Engenharia Mecânica pela UniBh
+* Pós-graduação em Inteligência Artificial e Aprendizado de Máquina - Pontifícia Universidade Católica (PUC-MG)
+* Graduação em Engenharia Mecânica - Centro Universitário de Belo Horizonte (UNIBH)
 
 
 ### Certificações
 
+[Google Analytics - GA4](https://skillshop.credential.net/d589c0a7-f042-4a1d-a440-a39bf23bb9a8)
+[Salesforce Certified AI Associate](https://www.salesforce.com/trailblazer/maisonfonseca)
 [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
