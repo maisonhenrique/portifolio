@@ -46,6 +46,6 @@ Atualmente atuo como Analista de Dados dedicado a transformar informações em i
 
 ### Certificações
 
-[Google Analytics - GA4](https://skillshop.credential.net/d589c0a7-f042-4a1d-a440-a39bf23bb9a8)
-[Salesforce Certified AI Associate](https://www.salesforce.com/trailblazer/maisonfonseca)
-[Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
+* [Google Analytics - GA4](https://skillshop.credential.net/d589c0a7-f042-4a1d-a440-a39bf23bb9a8)
+* [Salesforce Certified AI Associate](https://www.salesforce.com/trailblazer/maisonfonseca)
+* [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/1cd62a55-522e-4c72-b491-2100d1be0d3d?source=linked_in_profile)
