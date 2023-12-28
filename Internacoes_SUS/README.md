@@ -1,43 +1,38 @@
 # Análise de Internações Hospitalares do SUS
 
-Este é um projeto de análise e insights da base de dados de internação do SUS no período: 12/2017 à 07/2019, com uso de séries temporais para previsão de novas internações e os custos.
 
-**Observação:** Acesse o arquivo [pdf](https://github.com/maisonhenrique/portifolio/blob/ee150fa11b16c68a44f842fa3c2177a5c30e4da5/Internacoes_SUS/Analise_Final.pdf) com a análise final.
+## 📌 Descrição
+Este projeto visa uma análise abrangente da base de dados de internações do Sistema Único de Saúde (SUS) no Brasil. A análise exploratória teve como foco a investigação dos padrões de internações em todas as regiões do país, com o intuito de identificar tendências, disparidades e peculiaridades nos gastos e na prestação de serviços de saúde.
 
+📊 [Projeto completo](.ipynb)
 
-## Fonte de Dados
-
-http://tabnet.datasus.gov.br/cgi/sih/sxdescr.htm
-
-
-## Tratamento de Dados
-
-Limpeza dos dados, exclusão dos somatórios para não influenciar nas etapas posteriores. Renomeação dos Estados (Eliminação de caracteres especiais), separação de Estados e Regiões, renomeação das colunas. 
+📄 [Apresentação Final](.pdf)
 
 
-## Missing
+## 📁 Origem dos Dados
+Os dados foram extraídos do Sistema de Informações Hospitalares do SUS - SIH/SUS, esses dados são geridos pelo Ministério da Saúde, através da Secretaria de Assistência à Saúde, em conjunto com as Secretarias Estaduais de Saúde e as Secretarias Municipais de Saúde, sendo processado pelo DATASUS - Departamento de Informática do SUS, da Secretaria Executiva do Ministério da Saúde.
 
-Durante o tratamento de dados tinha períodos faltantes em 2018: Janeiro, Fevereiro, Junho e Outubro e em 2019: Março e Maio. Ao verificar os dados novamente, no mês de Janeiro de 2019 não tinha o Estado do Acre, onde foi feito a inserção manualmente por se tratar apenas de uma linha. 
+Estas informações são consolidadas no DATASUS contendo dados de grande parte das internações hospitalares realizadas no Brasil.
 
-Para a imputação de dados poderia ter utilizado, Mediana, Média, método de Missing Forest e KNNimputer. Como é o primeiro modelo para o projeto, foi utilizado Média Móvel para imputação dos dados ausentes. 
+Os dados dessa análise é referente ao periodo de 2018 à 2022 separados por Unidade Federativa. 
 
-
-## Feature Engineering
-
-Conforme o desenvolvimento do projeto foi preciso criar algumas features para trazer mais segurança nos valores finais do modelo. Criação das features de Total de Complemento Federal e Gestor, Prorrogações, Região, Número de Leitos Ocupados.
+Esses datasets são de acesso público e pode ser extraidos no [site](https://datasus.saude.gov.br/transferencia-de-arquivos) DATASUS.
 
 
-## Análise Exploratória dos Dados (EDA)
+## 🎯 Objetivo
 
-Essa etapa é muito importante para extração de insights para solucionar os problemas relacionados as internações hospitalares do SUS. Durante o projeto foi possível obter mais insights sobre os dados, trazendo uma separação por Estado, Região e  durante os períodos analisados. 
-Foi utilizado a biblioteca Pandas para manipulação e análise de dados e Matplotlib e Seaborn para visualização de dados e criação de gráficos.
-
-
-## Modelagem de Dados
-
-No modelo de previsão foi feito teste de estacionaridade de Dickey-Fuller e para as previsões futuras foi utilizado Auto ARIMA.
+O objetivo principal deste projeto é desenvolver um modelo preditivo capaz de estimar os custos e o número de internações no Sistema Único de Saúde (SUS) para os próximos seis meses.
 
 
-## Avaliações Finais
+## 🔍 Metodologia
 
-A avaliação final do modelo foi feita comparando os valores previstos dos reais. Conforme as previsões dos Valores Totais de Internações, Número de Óbitos e o Valor Médio AIH, foi possível estimar os valores gastos para os próximos seis meses.
+- **EDA (Exploratory Data Analysis):** Com análises univariadas e bivariadas para identificar padrões e correlações nos dados.
+- **Modelo preditivo:** Modelo preditivo utilizando redes neurais LSTM.
+
+## 📊 Conclusões
+
+A análise e projeção realizadas forneceram uma compreensão mais profunda dos padrões de internações no Sistema Único de Saúde (SUS). Identificou-se que o Estado de São Paulo se destaca como o maior em gastos com internações no país, evidenciando sua importância no contexto do sistema de saúde brasileiro.
+
+Para futuros avanços, é crucial o refinamento dos modelos visando aprimorar a precisão das previsões. Isso pode envolver a otimização dos algoritmos atuais, a exploração de outros métodos ou a inclusão de variáveis adicionais para fortalecer a robustez dos modelos. 
+
+
