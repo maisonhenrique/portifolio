@@ -4,9 +4,9 @@
 ## Descrição
 Este projeto visa realizar uma análise de cohorts e implementar uma segmentação RFV em um e-commerce. Ao explorar as transações ao longo do tempo, são buscados insights sobre padrões de retenção e identificação de grupos de clientes. Com essas abordagens, pretende-se personalizar estratégias de marketing, impulsionar a fidelidade do cliente e maximizar o valor gerado pelo negócio online. O objetivo é oferecer uma visão estratégica para otimizar a experiência do cliente e impulsionar o sucesso do e-commerce.
 
-📊 [Projeto completo]()
+📊 [Projeto completo](https://github.com/maisonhenrique/portifolio/blob/main/Analise_Cohort_RFV/AnaliseCohort_RFV.ipynb)
 
-📄 [Apresentação Final]()
+📄 [Apresentação Final](https://github.com/maisonhenrique/portifolio/blob/main/Analise_Cohort_RFV/An%C3%A1lise%20Cohort%20RFV.pdf)
 
 **Observação:** O notebook possui comentários de todas as etapas do projeto. 
 

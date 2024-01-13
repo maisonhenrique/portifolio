@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99361817/219905529-2ae457f3-6d13-434e-a846-5b35edc90f3a.png">
+  <img src="https://github.com/maisonhenrique/portifolio/assets/99361817/da8ed07b-fefa-4e09-8408-9bccb96c6225.png">
 </p>
 
 
@@ -12,7 +12,8 @@ Neste repositório, apresento análises e projetos de estudo centrados na área 
 
 ## Projetos
 
-* [Análise Cohort e segmentação RFV]()
+* [Análise Cohort e segmentação RFV]
+(https://github.com/maisonhenrique/portifolio/tree/main/Analise_Cohort_RFV)
 * [Análise de Internações Hospitalares SUS - Séries Temporais](https://github.com/maisonhenrique/portifolio/tree/main/Internacoes_SUS)
 * [Stock Monitor Predict - Análise e Previsão de Preços de Ações](https://github.com/maisonhenrique/portifolio/tree/main/Stock_Monitor_Predict)
 * [Churn Prediction - Empresa de Telecomunicações](https://github.com/maisonhenrique/portifolio/tree/main/Churn_Prediction)
