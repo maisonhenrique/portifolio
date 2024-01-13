@@ -12,9 +12,10 @@ Neste repositório, apresento análises e projetos de estudo centrados na área 
 
 ## Projetos
 
+* [Análise Cohort e segmentação RFV]()
+* [Análise de Internações Hospitalares SUS - Séries Temporais](https://github.com/maisonhenrique/portifolio/tree/main/Internacoes_SUS)
 * [Stock Monitor Predict - Análise e Previsão de Preços de Ações](https://github.com/maisonhenrique/portifolio/tree/main/Stock_Monitor_Predict)
 * [Churn Prediction - Empresa de Telecomunicações](https://github.com/maisonhenrique/portifolio/tree/main/Churn_Prediction)
-* [Análise de Internações Hospitalares SUS - Séries Temporais](https://github.com/maisonhenrique/portifolio/tree/main/Internacoes_SUS)
 * [Detecção de Fraudes no Cartão de Crédito](https://github.com/maisonhenrique/portifolio/tree/main/Deteccao_Fraudes_Cartoes_Credito)
 * [Previsão de Diabetes - Regressão Logística](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Diabetes_Regressao_Logistica)
 * [Prevendo o Consumo de Cerveja - Regressão Linear](https://github.com/maisonhenrique/portifolio/tree/main/Prevendo_Consumo_de_Cerveja)
